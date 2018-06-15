@@ -1,0 +1,3 @@
+toset.yml 
+.gprode
+dgegre.propertits
